@@ -2,20 +2,20 @@
 
 ![image](screenshots/giphy.gif)
 
-It's been a while since we've built an app from scratch, hasn't it? We're changing that tonight! You will create a MEAN stack app to help keep track our credits and expenses. And guess what..
+It's been a while since we've built an app from scratch, hasn't it? We're changing that tonight! You will create a single-page MEAN stack app to help keep track of our credits and expenses. And guess what..
 
 :open_mouth: _There's no starter code!_
 
 ### Exercise Objectives
 
-- tying it all together
+- tie it all together like a boss
 - practice setting up an app from scratch
 
 ## Directions
 
 You will create an app from scratch. I highly recommend you **do not** copy/paste a full app, full routes, full files, etc. Since we're about to head into Project week, use tonight's exercise to solidify all that you've learned to this point, think critically, and work **component by component.** Be able to explain each line of code and what it does.
 
-Check each spec as you work your way through. You may use the guide (or not). Make it your own. You do not have to follow this in order (but it may help!)
+You may use the guide (or not, there are many ways to do this app). Check off each spec as you work your way through. The steps are not necessarily in order (but it may help!) Feel free to make it your own.
 
 :dart: Don't forget to Commit often!
 
